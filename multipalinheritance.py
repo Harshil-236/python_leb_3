@@ -17,3 +17,4 @@ child_obj.method2()
 child_obj.method3()
 
 output:-
+![Screenshot 2024-08-02 184605](https://github.com/user-attachments/assets/76028f39-684d-4316-a951-a9ac0eeec8bf)
