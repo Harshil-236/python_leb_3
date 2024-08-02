@@ -15,3 +15,4 @@ print("Designation:", emp.designation)
 print("Salary:", emp.salary)
 
 output:-
+![Screenshot 2024-08-02 182025](https://github.com/user-attachments/assets/70c2ee23-c3cf-4c3a-a65c-52b85c0c0fbb)
