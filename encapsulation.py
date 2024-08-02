@@ -18,3 +18,4 @@ print("Addition Result:", result_addition)
 print("Subtraction Result:", result_subtraction)
 
 output:-
+![Screenshot 2024-08-02 191015](https://github.com/user-attachments/assets/6d69938b-5fa4-4af6-b8f2-ece780e1b3d1)
