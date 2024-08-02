@@ -16,3 +16,4 @@ else:
 
 output:-
 
+![Screenshot 2024-08-02 185606](https://github.com/user-attachments/assets/58193e77-55ff-41bb-aa2e-b031629e9154)
