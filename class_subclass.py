@@ -22,3 +22,4 @@ print(emp.salary)
 
 output:-
 
+![Screenshot 2024-08-02 183710](https://github.com/user-attachments/assets/c32f7b92-5879-4776-909a-b7b63cb0bee9)
