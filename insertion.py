@@ -12,3 +12,4 @@ insertion_sort(elements)
 print("Sorted elements:", elements)
 
 output:-
+![Screenshot 2024-08-02 213051](https://github.com/user-attachments/assets/41f14881-30b6-4667-9033-a39cd8df3b68)
